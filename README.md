@@ -9,4 +9,5 @@ Prof. Amarnath Mitra: I am thankful for the guidance and support provided by Pro
 Tanishq dublish: I would like to acknowledge the work of Tanishq, whose repository (https://www.kaggle.com/tanishqdublish) served as a valuable reference for understanding and implementing this project.
 
 Data Source -: https://www.kaggle.com/datasets/tanishqdublish/urban-traffic-density-in-cities/data
-     This dataset provides a detailed view of traffic data in a futuristic urban environment, containing over 1.2 million records. Each record represents a unique snapshot of various factors affecting traffic conditions in six fictional cities.
+
+This dataset provides a detailed view of traffic data in a futuristic urban environment, containing over 1.2 million records. Each record represents a unique snapshot of various factors affecting traffic conditions in six fictional cities.
