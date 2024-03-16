@@ -1,4 +1,4 @@
-"Understanding traffic patterns in futuristic urban environments with K-Means and DBSCAN".
+"Understanding Traffic Patterns in Futuristic Urban Environments with K-Means and DBSCAN".
 
 Acknowledgments-:
 
