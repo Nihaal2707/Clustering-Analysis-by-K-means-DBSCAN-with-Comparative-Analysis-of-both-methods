@@ -10,4 +10,4 @@ Tanishq dublish: I would like to acknowledge the work of Tanishq, whose reposito
 
 Data Source -: https://www.kaggle.com/datasets/tanishqdublish/urban-traffic-density-in-cities/data
 
-This dataset provides a detailed view of traffic data in a futuristic urban environment, containing over 1.2 million records. Each record represents a unique snapshot of various factors affecting traffic conditions in six fictional cities.
+This dataset provides a detailed view of traffic data in a futuristic urban environment, containing over 50K records. Each record represents a unique snapshot of various factors affecting traffic conditions in six fictional cities.
